@@ -13,11 +13,6 @@ class FizzBuzz {
 
             j = doFizzBuzz(j);
         }
-        IO.println("Testing");
-        IO.println("Testing");
-
-
-
 //        for (int i = 1; i <= 100; i++) {
 //
 //            // Find out which numbers divide i.
